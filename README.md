@@ -252,6 +252,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📸 Screenshots / 截图
 
+### Hot Reload Effect / 热重载效果
+![Hot Reload Effect](pic.png)
+
 ### Hot Reload Window / 热重载窗口
 ![Hot Reload Window](docs/images/hot-reload-window.png)
 

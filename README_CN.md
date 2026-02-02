@@ -246,6 +246,10 @@ public int Calculate(int a, int b)
 public void SetPosition(float x, float y, float z) { }
 ```
 
+## 📸 效果展示
+
+![热重载效果](pic.png)
+
 ## 🎓 教程视频
 
 即将推出...
